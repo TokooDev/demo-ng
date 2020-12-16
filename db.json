@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$nFVSgbrEpGOqexFsiVSJ8Oa0.di9fr3Ve1J5OP56JiccMOSZx69b6",
+      "id": 1
+    },
+    {
+      "email": "tokosel@mail.com",
+      "password": "$2a$10$RzLFBzXUYU4deMLRff7ckuctlY7twV3lZs96Vzrd9b0dtNR/9LU6.",
+      "id": 2
+    },
+    {
+      "email": "tokosel@gmail.com",
+      "password": "$2a$10$4zsAPzmYBp93Q/XdrAJDduKcjI.oCe8WIH88j0Hl8cc/Crd84WtLS",
+      "id": 3
+    },
+    {
+      "email": "laye@gmail.com",
+      "password": "$2a$10$KtU4lUPAxfED9C97Gcc5ZuN43cvW17eZsQ9XapQED1Y/AGgB3zGmu",
+      "id": 4
+    },
+    {
+      "email": "sall.abdoulaye@supdeco.edu.sn",
+      "password": "$2a$10$zwMbI3AfOIjMKXo10USQWeY01uaUyilrXM469vwPygzuou/mmzSrW",
+      "id": 5
+    },
+    {
+      "email": "layesall05@gmail.com",
+      "password": "$2a$10$aEKrkc0FvrwBuc/rE/Sj1uAe2.VPbmEXDB3g6y8k5taLlDBqa/ptW",
+      "id": 6
+    },
+    {
+      "email": "admin@admin.com",
+      "password": "$2a$10$PHfVvYrJtOMbOeyhHTH7xOm0b7aWOiZODqMf9nlRLwu8Fn.AhB6R2",
+      "id": 7
+    },
+    {
+      "email": "admin@admin.sn",
+      "password": "$2a$10$d8roue.FFBKtfsL3W/XESOKPggQYowYrnKYy6jXpQm0NuMuPTV85m",
+      "id": 8
+    }
+  ]
+}
