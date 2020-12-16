@@ -27,5 +27,25 @@ export class RegisterComponent implements OnInit {
     }
   );
   }
+  insert(user: any) {
+    this.http.post("http://localhost:3000/register", user).subscribe(data => {
+      console.log(data);
+      return data;
+    },
+      err => {
+
+      });
+  }
+
+  get() {
+    console.log("oki");
+    this.http.get("http://localhost:3000/users").subscribe(data => {
+      console.log(data);
+      return data;
+    },
+      err => {
+
+      });
+  }
 
 }

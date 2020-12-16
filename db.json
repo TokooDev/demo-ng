@@ -2,6 +2,7 @@
   "users": [
     {
       "email": "olivier@mail.com",
+<<<<<<< HEAD
       "password": "$2a$10$nFVSgbrEpGOqexFsiVSJ8Oa0.di9fr3Ve1J5OP56JiccMOSZx69b6",
       "id": 1
     },
@@ -39,6 +40,22 @@
       "email": "admin@admin.sn",
       "password": "$2a$10$d8roue.FFBKtfsL3W/XESOKPggQYowYrnKYy6jXpQm0NuMuPTV85m",
       "id": 8
+=======
+      "password": "$2a$10$NL1nLdeTDvt/y8ivWwKuSeXlSP3gNmr8zgL.DO2lZGoRX3T4sQJoO",
+      "id": 1
+    },
+    {
+      "email": "abd@mail.com",
+      "password": "$2a$10$9V5Zu8OPD8M4ernFXoSuRe513zjGlvg5BVsNi4HVoafhE5DWUlULG",
+      "nom": "Abd",
+      "id": 2
+    },
+    {
+      "email": "mai@gmail.com",
+      "password": "$2a$10$QwSWKj0jpMaIyyiyA4Aef.3iF7gJVohCYBhjauBStFSYqcKJi4QsS",
+      "prenom": "MaiMouna",
+      "id": 3
+>>>>>>> 2f95cb32091d570035186360d7272c23ecbc2978
     }
   ]
 }

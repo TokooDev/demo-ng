@@ -18,6 +18,8 @@ import { SidenavComponent } from './sidenav/sidenav.component';
 import {MatSidenavModule} from '@angular/material/sidenav';
 import {MatListModule} from '@angular/material/list';
 import { FooterComponent } from './footer/footer.component';
+import { from } from 'rxjs';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -40,7 +42,6 @@ import { FooterComponent } from './footer/footer.component';
     MatIconModule,
     MatSidenavModule,
     MatListModule
-
 
 
   ],
